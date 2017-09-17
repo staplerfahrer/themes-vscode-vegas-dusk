@@ -1,0 +1,29 @@
+{
+	"name": "theme-vegas-dusk",
+	"displayName": "Vegas Dusk",
+	"description": "Aims to be a comfortable, low-noise theme. Imagine warm desert tones at dusk, with Vegas neon accents. Great Elm support. Font Input Mono is highly recommended.",
+	"icon": "icon.png",
+	"version": "0.1.0",
+	"categories": [ "Themes" ],
+	"publisher": "staplerfahrer",
+	"engines": { "vscode": "*" },
+	"license": "CC BY (https://creativecommons.org/licenses/by/4.0/)",
+	"keywords": ["vegas", "dusk", "theme", "elm"],
+	"contributes": {
+		"themes": [
+			{
+				"id": "Vegas Dusk",
+				"label": "Vegas Dusk",
+				"uiTheme": "vs-dark",
+				"path": "./themes/dark_plus.json"
+			}
+		],
+		"iconThemes": [
+			{
+				"id": "vs-minimal",
+				"label": "Minimal (Visual Studio Code)",
+				"path": "./fileicons/vs_minimal_icons.json"
+			}
+		]
+	}
+}
