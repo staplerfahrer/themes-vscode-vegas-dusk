@@ -1,5 +1,13 @@
 # Vegas Dusk Theme
 
+## Who
+
+staplerfahrer
+
+## Can I?
+
+Yes. License: CC BY (https://creativecommons.org/licenses/by/4.0/)
+
 ## Screenshots
 
 Screenshots below are based on
@@ -10,4 +18,4 @@ Screenshots below are based on
 }
 ```
 
-![Screenshot](https://github.com/whtsky/Agila-Theme-VSCode/raw/master/screenshots/Agila Classic Oceanic Next.png)
+![Screenshot](https://github.com/staplerfahrer/themes-vscode-vegas-dusk/raw/master/screenshots/elm-json-html.png)
