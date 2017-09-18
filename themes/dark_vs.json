@@ -388,7 +388,7 @@
 				"constant.language.unit.elm"
 			],
 			"settings": {
-				"foreground": "#573930"
+				"foreground": "#614138"
 			}
 		}, // operator color: 305740
 		{
@@ -444,10 +444,11 @@
 			"name": "",
 			"scope": [
 				"keyword.control.elm",
-				"keyword.import.elm"
+				"keyword.import.elm",
+				"keyword.other.elm"
 			],
 			"settings": {
-				"foreground": "#4E332B"
+				"foreground": "#614138"
 			}
 		},
 		{
@@ -476,13 +477,6 @@
 			"scope": "keyword.other.colon.elm",
 			"settings": {
 				"foreground": "#573930"
-			}
-		},
-		{
-			"name": "",
-			"scope": "keyword.other.elm",
-			"settings": {
-				"foreground": "#4E3228"
 			}
 		},
 		{
@@ -601,7 +595,7 @@
 			"name": "",
 			"scope": "support.constant.elm",
 			"settings": {
-				"foreground": "#4E332B",
+				"foreground": "#64463E",
 				"fontStyle": "italic"
 			}
 		},
@@ -609,7 +603,7 @@
 			"name": "",
 			"scope": "support.constant.unit.elm",
 			"settings": {
-				"foreground": "#4E332B"
+				"foreground": "#53372F"
 			}
 		},
 		{
@@ -630,14 +624,14 @@
 			"name": "",
 			"scope": "support.other.module.elm",
 			"settings": {
-				"foreground": "#33335E"
+				"foreground": "#444485"
 			}
 		},
 		{
 			"name": "",
 			"scope": "support.type.prelude.elm",
 			"settings": {
-				"foreground": "#33335E"
+				"foreground": "#4E4EB1"
 			}
 		},
 		{
@@ -651,7 +645,7 @@
 			"name": "",
 			"scope": "variable.parameter",
 			"settings": {
-				"foreground": "#33335E"
+				"foreground": "#3A3A80"
 			}
 		}
 	]
