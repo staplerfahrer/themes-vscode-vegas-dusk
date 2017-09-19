@@ -546,14 +546,14 @@
 			"name": "",
 			"scope": "punctuation.definition.string.begin.elm",
 			"settings": {
-				"foreground": "#3A2924"
+				"foreground": "#4E332B"
 			}
 		},
 		{
 			"name": "",
 			"scope": "punctuation.definition.string.end.elm",
 			"settings": {
-				"foreground": "#3A2924"
+				"foreground": "#4E332B"
 			}
 		},
 		{

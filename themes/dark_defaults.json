@@ -159,13 +159,13 @@
 		"editorOverviewRuler.wordHighlightForeground": "#00ff00",
 		"editorOverviewRuler.wordHighlightStrongForeground": "#ff00ff",
 
-		"editorGutter.background": "#291F1B",
-		"editorOverviewRuler.addedForeground": "#08723F",
-		"editorGutter.addedBackground": "#08723F",
-		"editorOverviewRuler.deletedForeground": "#9F3000",
-		"editorGutter.deletedBackground": "#9F3000",
-		"editorOverviewRuler.modifiedForeground": "#A76D09",
-		"editorGutter.modifiedBackground": "#A76D09",
+		"editorGutter.background": "#332520",
+		"editorOverviewRuler.addedForeground": "#264E2F",
+		"editorGutter.addedBackground": "#264E2F",
+		"editorOverviewRuler.deletedForeground": "#642D2B",
+		"editorGutter.deletedBackground": "#642D2B",
+		"editorOverviewRuler.modifiedForeground": "#47322B",
+		"editorGutter.modifiedBackground": "#47322B",
 				
 		// diff
 		"diffEditor.removedTextBackground": "#50242488",
