@@ -60,13 +60,6 @@
 			}
 		},
 		{
-			"name": "Control flow keywords",
-			"scope": "keyword.control",
-			"settings": {
-				"foreground": "#CD210E"
-			}
-		},
-		{
 			"name": "Variable and parameter name",
 			"scope": [
 				"variable",
@@ -74,7 +67,7 @@
 				"support.variable"
 			],
 			"settings": {
-				"foreground": "#093B54"
+				"foreground": "#39687E"
 			}
 		},
 		{

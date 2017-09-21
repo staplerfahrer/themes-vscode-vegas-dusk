@@ -276,22 +276,7 @@
 		{
 			"scope": "keyword",
 			"settings": {
-				"foreground": "#569cd6"
-			}
-		},
-		{
-			"scope": "keyword.control",
-			"settings": {
-				"foreground": "#569cd6"
-			}
-		},
-		{
-			"scope": [
-				"keyword.operator",
-				"keyword.operator.elm"
-			],
-			"settings": {
-				"foreground": "#305740"
+				"foreground": "#40596D"
 			}
 		},
 		{
@@ -349,6 +334,25 @@
 			"scope": "variable.language",
 			"settings": {
 				"foreground": "#569cd6"
+			}
+		},
+		{
+			"name": "Control flow keywords",
+			"scope": [
+				"keyword.control",
+				"keyword.control.elm"
+			],
+			"settings": {
+				"foreground": "#614138"
+			}
+		},
+		{
+			"scope": [
+				"keyword.operator",
+				"keyword.operator.elm"
+			],
+			"settings": {
+				"foreground": "#305740"
 			}
 		},
 		// Elm
@@ -443,7 +447,6 @@
 		{
 			"name": "",
 			"scope": [
-				"keyword.control.elm",
 				"keyword.import.elm",
 				"keyword.other.elm"
 			],
@@ -504,7 +507,7 @@
 			"name": "",
 			"scope": "meta.declaration.module.elm",
 			"settings": {
-				"foreground": "#000000"
+				"foreground": "#A76046"
 			}
 		},
 		{
@@ -518,7 +521,7 @@
 			"name": "",
 			"scope": "meta.import.elm",
 			"settings": {
-				"foreground": "#000000"
+				"foreground": "#A76046"
 			}
 		},
 		{
